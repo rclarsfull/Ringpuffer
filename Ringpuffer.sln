@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ringpuffer", "Ringpuffer\Ringpuffer.vcxproj", "{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Debug|x64.ActiveCfg = Debug|x64
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Debug|x64.Build.0 = Debug|x64
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Debug|x86.ActiveCfg = Debug|Win32
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Debug|x86.Build.0 = Debug|Win32
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Release|x64.ActiveCfg = Release|x64
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Release|x64.Build.0 = Release|x64
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Release|x86.ActiveCfg = Release|Win32
+		{D92198B5-3350-4DF2-8B44-F4AFEA6CFD74}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D08BA9-30C5-4F07-ADE5-CBBABAEB4B00}
+	EndGlobalSection
+EndGlobal
